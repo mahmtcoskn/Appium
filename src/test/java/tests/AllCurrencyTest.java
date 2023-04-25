@@ -14,6 +14,7 @@ public class AllCurrencyTest {
     // cevrilen tutar screenShot olarak kaydedilir
     // Ardindan zloty nin tl karsiligi olan tl degeri kaydedilir
     // bu islem dolar tl, sweden kron-tl, Japon yeni- tl olarak tekrarlanir ve kullaniciya sms olarak bildirilir
+
     AndroidDriver<AndroidElement> driver= Driver.getAndroidDriver();
 
     @Test
